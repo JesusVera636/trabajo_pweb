@@ -1,0 +1,57 @@
+header {
+
+    float: left;
+    background-color: gray;
+    margin-right: 1%;
+    
+
+}
+
+body {
+
+    background-color: gray;
+    color: white
+    
+
+}
+
+
+.lorem1 {
+
+    background-color: blue;
+    display: inline-block;
+    padding: 4%;
+    margin-right: 3%;
+    
+    
+}
+
+.lorem2 {
+
+    background-color: yellow;
+    display: inline-block;
+    padding: 4%;
+    margin-right: 3%;
+}
+
+.lorem3 {
+
+    background-color: orange;
+    display: inline-block;
+    padding: 4%;
+    margin-right: 3%;
+}
+
+.lorem4 {
+
+    background-color: red;
+    display: inline-block;
+    padding: 4%;
+    margin-right: 3%;
+}
+
+ul {
+
+    margin-left: 3%;
+}
+
